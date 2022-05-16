@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the classes Computer Vision and Computer Security
+- 🔭 I’m currently working for USGS Cloud Hosting Solutions.
 - 😄 Pronouns: (he/him/his)
 - ⚡ Fun fact: I can ride a unicycle!
 
